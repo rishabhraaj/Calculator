@@ -1,0 +1,10 @@
+.containerBox{
+  width:80%;
+  border:1px solid grey;
+  border-radius: 3px;
+  margin:20px;
+  margin-left:10%;
+  padding:10px;
+  text-align: center;
+  background-color: rgb(179, 112, 243);
+}

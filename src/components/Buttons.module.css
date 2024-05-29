@@ -1,0 +1,9 @@
+.buttonStyles{
+  padding:1rem;
+  border:none;
+  background-color: lightblue;
+  border-radius: 3px;
+  margin:5px;
+  width:80%;
+  height:60px;
+}
